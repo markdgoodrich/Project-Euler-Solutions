@@ -14,19 +14,7 @@ def test(x):
 #print test(44)
 #print test(99)
 
-for a in range(1,10**7
-
-
-
-
-
-
-
-
-
-
-
-               ):
+for a in range(1,10**7):
     if test(a) == 89:
         counter += 1
 
